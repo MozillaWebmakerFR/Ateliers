@@ -10,14 +10,14 @@ Nos ateliers sont ouverts à tou-te-s et sont destinés aux débutant-e-s. Seul 
 
 ###Protection de la vie privée en ligne
 * Jeu des mots de passe : initiation à la sécurité des mots de passe
-* [Les mystères du Web : sensibilisation à la vie privée en ligne](https://github.com/WebmakerFR/fiches/blob/master/Myst%C3%A8res%20du%20Web.md)
+* [Les mystères du Web : sensibilisation à la vie privée en ligne](https://github.com/WebmakerFR/fiches/blob/master/FR/Myst%C3%A8res%20du%20Web.md)
 * Jeu des messages : initiation aux communications sécurisées sur internet
 
 ###Initiation à la programmation de site web avec HTML et CSS
-* [Jeu de cubes HTML : initiation aux balises HTML](https://github.com/WebmakerFR/fiches/blob/master/Jeu%20de%20cubes%20HTML%20:%20initiation%20aux%20balises%20HTML.md)
-* [Jouer et modifier le code d'une page web avec l'outil Thimble](https://github.com/WebmakerFR/fiches/blob/master/Modifier%20et%20jouer%20avec%20le%20code%20d'une%20page%20web%20avec%20l'outil%20Thimble.md)
-* [Coder votre première page web dans un éditeur de texte](https://github.com/WebmakerFR/fiches/blob/master/Coder%20votre%20premi%C3%A8re%20page%20web%20dans%20un%20%C3%A9diteur%20de%20texte.md)
-* [Structure d'une page HTML : comparer la structure d'une page de journal papier et celle d'une page web](https://github.com/WebmakerFR/fiches/blob/master/Structure%20d'une%20page%20HTML%20:%20comparer%20la%20structure%20d'une%20page%20de%20journal%20papier%20et%20celle%20d'une%20page%20web.md)
+* [Jeu de cubes HTML : initiation aux balises HTML](https://github.com/WebmakerFR/fiches/blob/master/FR/Jeu%20de%20cubes%20HTML%20:%20initiation%20aux%20balises%20HTML.md)
+* [Jouer et modifier le code d'une page web avec l'outil Thimble](https://github.com/WebmakerFR/fiches/blob/master/FR/Modifier%20et%20jouer%20avec%20le%20code%20d'une%20page%20web%20avec%20l'outil%20Thimble.md)
+* [Coder votre première page web dans un éditeur de texte](https://github.com/WebmakerFR/fiches/blob/master/FR/Coder%20votre%20premi%C3%A8re%20page%20web%20dans%20un%20%C3%A9diteur%20de%20texte.md)
+* [Structure d'une page HTML : comparer la structure d'une page de journal papier et celle d'une page web](https://github.com/WebmakerFR/fiches/blob/master/FR/Structure%20d'une%20page%20HTML%20:%20comparer%20la%20structure%20d'une%20page%20de%20journal%20papier%20et%20celle%20d'une%20page%20web.md)
 
 ##Les lieux et événements qui ont accueilli des ateliers Webmaker
 * Bibliothèques municipales de la Ville de Paris (2016)
@@ -35,14 +35,14 @@ The Webmaker workshops are intended for giving you accessible and playful tips t
 
 ###Protect Your Online Privacy Games
 * The Game of Passwords: introduction to password security
-* [The Mysteries of the Web: awareness of online privacy](https://github.com/MozillaWebmakerFR/fiches/blob/master/Index%20The%20Mysteries%20of%20the%20Web:%20awareness%20of%20online%20privacy.md)
+* [The Mysteries of the Web: awareness of online privacy](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20The%20Mysteries%20of%20the%20Web:%20awareness%20of%20online%20privacy.md)
 * The Game of Messages: introduction to secured communications on Internet
 
 ###Introduction to web programming with HTML and CSS
-* [HTML Puzzle Game: introduction to HTML tags](https://github.com/MozillaWebmakerFR/fiches/blob/master/Index%20HTML%20Puzzle%20Game:%20introduction%20to%20HTML%20tags.md)
-* [Modify and play with the code of a web page with Mozilla Thimble](https://github.com/MozillaWebmakerFR/fiches/blob/master/Index%20Modify%20and%20play%20with%20the%20code%20of%20a%20web%20page%20with%20Mozilla%20Thimble.md)
-* [Code your first web page on your own with a Text Editor](https://github.com/MozillaWebmakerFR/fiches/blob/master/Index%20Code%20your%20first%20web%20page%20on%20your%20own%20with%20a%20Text%20Editor.md)
-* [The structure of a HTML page: compare a newspaper page and a HTML page](https://github.com/MozillaWebmakerFR/fiches/blob/master/Index%20The%20structure%20of%20a%20HTML%20page:%20compare%20a%20newspaper%20page%20and%20a%20HTML%20page.md)
+* [HTML Puzzle Game: introduction to HTML tags](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20HTML%20Puzzle%20Game:%20introduction%20to%20HTML%20tags.md)
+* [Modify and play with the code of a web page with Mozilla Thimble](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20Modify%20and%20play%20with%20the%20code%20of%20a%20web%20page%20with%20Mozilla%20Thimble.md)
+* [Code your first web page on your own with a Text Editor](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20Code%20your%20first%20web%20page%20on%20your%20own%20with%20a%20Text%20Editor.md)
+* [The structure of a HTML page: compare a newspaper page and a HTML page](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20The%20structure%20of%20a%20HTML%20page:%20compare%20a%20newspaper%20page%20and%20a%20HTML%20page.md)
 
 ##Places and events where French Webmaker workshops were organized
 * Paris Public Librairies (2016)
