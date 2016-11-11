@@ -36,14 +36,14 @@ The Webmaker workshops are intended for giving you accessible and playful tips t
 
 ###Protect Your Online Privacy Games
 * The Game of Passwords: introduction to password security
-* [The Mysteries of the Web: awareness of online privacy](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20The%20Mysteries%20of%20the%20Web:%20awareness%20of%20online%20privacy.md)
+* [The Mysteries of the Web: awareness of online privacy](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/The%20Mysteries%20of%20the%20Web:%20awareness%20of%20online%20privacy.md)
 * The Game of Messages: introduction to secured communications on Internet
 
 ###Introduction to web programming with HTML and CSS
-* [HTML Puzzle Game: introduction to HTML tags](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20HTML%20Puzzle%20Game:%20introduction%20to%20HTML%20tags.md)
-* [Modify and play with the code of a web page with Mozilla Thimble](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20Modify%20and%20play%20with%20the%20code%20of%20a%20web%20page%20with%20Mozilla%20Thimble.md)
-* [Code your first web page on your own with a Text Editor](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20Code%20your%20first%20web%20page%20on%20your%20own%20with%20a%20Text%20Editor.md)
-* [The structure of a HTML page: compare a newspaper page and a HTML page](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Index%20The%20structure%20of%20a%20HTML%20page:%20compare%20a%20newspaper%20page%20and%20a%20HTML%20page.md)
+* [HTML Puzzle Game: introduction to HTML tags](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/HTML%20Puzzle%20Game:%20introduction%20to%20HTML%20tags.md)
+* [Modify and play with the code of a web page with Mozilla Thimble](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Modify%20and%20play%20with%20the%20code%20of%20a%20web%20page%20with%20Mozilla%20Thimble.md)
+* [Code your first web page on your own with a Text Editor](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/Code%20your%20first%20web%20page%20on%20your%20own%20with%20a%20Text%20Editor.md)
+* [The structure of a HTML page: compare a newspaper page and a HTML page](https://github.com/MozillaWebmakerFR/fiches/blob/master/EN/The%20structure%20of%20a%20HTML%20page:%20compare%20a%20newspaper%20page%20and%20a%20HTML%20page.md)
 
 ##Places and events where French Webmaker workshops were organized
 * Paris Public Librairies (2016)
