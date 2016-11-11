@@ -34,7 +34,7 @@ Les participant·e·s modifient le code HTML et CSS d'un projet existant.
 #### Modifier le code HTML
 * Effectuer l'exercice dans la colonne gauche *Éditeur*, sur la page `index.html`.
 * Modifier le titre `h1` (lignes 18 à 22).
-* Ajouter un paragraphe sous le titre : `<p><`Votre texte personnalisé entre ces balises`</p>`.
+* Ajouter un paragraphe sous le titre : `<p>`Votre texte personnalisé entre ces balises`</p>`.
 * Modifier éventuellement l'image : remplacer `src="crown.svg"` par `src="l'url de votre choix”` (ligne 15).
 
 #### Modifier le code CSS
