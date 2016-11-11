@@ -15,7 +15,7 @@ Nos ateliers sont ouverts à tou-te-s et sont destinés aux débutant-e-s. Seul 
 
 ###Initiation à la programmation de site web avec HTML et CSS
 * [Jeu de cubes HTML : initiation aux balises HTML](https://github.com/WebmakerFR/fiches/blob/master/FR/Jeu%20de%20cubes%20HTML%20:%20initiation%20aux%20balises%20HTML.md)
-* [Jouer et modifier le code d'une page web avec l'outil Thimble](https://github.com/WebmakerFR/fiches/blob/master/FR/Modifier%20et%20jouer%20avec%20le%20code%20d'une%20page%20web%20avec%20l'outil%20Thimble.md)
+* [Jouer et modifier le code d'une page web avec l'outil Thimble](https://github.com/MozillaWebmakerFR/Ateliers/blob/master/FR/Jouer%20et%20modifier%20avec%20le%20code%20d'une%20page%20web%20avec%20l'outil%20Thimble.md)
 * [Coder votre première page web dans un éditeur de texte](https://github.com/WebmakerFR/fiches/blob/master/FR/Coder%20votre%20premi%C3%A8re%20page%20web%20dans%20un%20%C3%A9diteur%20de%20texte.md)
 * [Structure d'une page HTML : comparer la structure d'une page de journal papier et celle d'une page web](https://github.com/WebmakerFR/fiches/blob/master/FR/Structure%20d'une%20page%20HTML%20:%20comparer%20la%20structure%20d'une%20page%20de%20journal%20papier%20et%20celle%20d'une%20page%20web.md)
 
