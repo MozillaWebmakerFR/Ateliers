@@ -48,7 +48,7 @@ _Note : en cas d'impossibilité de connexion à internet, vous pouvez préparer 
     * Ajouter un fond de couleur
     * Centrer le contenu de la page puis l'aligner à droite
 
-* Variante
+## Variante
 Pour un public technophile : organiser un défi entre de petits groupes, qui créeront une page web sur le thème de leur choix.
 
 ## Liens
