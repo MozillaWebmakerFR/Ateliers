@@ -30,13 +30,15 @@ Les participant·e·s modifient le code HTML et CSS d'un projet existant.
 * Choisir le projet “Keep Calm and Carry On”.
 * Expliquer la présentation en 2 parties : à gauche le code et à droite la visualisation. Les modifications effectuées dans le code à gauche s'affichent en temps réel à droite.
 * Expliquer la structure et les balises HTML, ainsi que la façon d'écrire des commentaires.
+
 #### Modifier le code HTML
-* Effectuer l'exercice dans la colonne gauche “Éditeur”, sur la page '''“index.html”'''.
+* Effectuer l'exercice dans la colonne gauche *Éditeur*, sur la page `index.html`.
 * Modifier le titre `h1` (lignes 18 à 22).
 * Ajouter un paragraphe sous le titre : `<p><`Votre texte personnalisé entre ces balises`</p>`.
 * Modifier éventuellement l'image : remplacer `src="crown.svg"` par `src="l'url de votre choix”` (ligne 15).
+
 #### Modifier le code CSS
-* Dans la colonne gauche, se rendre sur la page '''“style.css”'''.
+* Dans la colonne gauche, se rendre sur la page `style.css`.
 * Modifier quelques propriétés de l'élémént `body` :
   * la couleur de fond (ligne 2)
   * la couleur du texte (ligne 3)
@@ -52,11 +54,11 @@ Les participant·e·s modifient le code HTML et CSS d'un projet existant.
   * la graisse du texte (ligne 20)
   * éventuellement les marges (ligne 21 et 22)
 
-### Partie 3 : modification du code CSS sur un site internet avec l'outil “Inspecteur d'élément” (Optionnel)
+### Partie 3 : modification du code CSS sur un site internet avec l'outil Inspecteur d'élément (Optionnel)
 * Se rendre sur un site internet que vous aurez choisi à l'avance selon votre public.
-* Au clic droit choisir “Inspect Element”.
-* Sélectionner un fond de couleur avec la flèche “Pick an element from the page”.
-* Dans la colonne de droite '''“Rules”''' repérer la propriété CSS `background` et modifier sa valeur.
+* Au clic droit choisir *Inspect Element*.
+* Sélectionner un fond de couleur avec la flèche *Pick an element from the page*.
+* Dans la colonne de droite *Rules* repérer la propriété CSS `background` et modifier sa valeur.
 * Annoncer aux participant·e·s qu'illes ont modifié la couleur du site! Puis expliquer pourquoi ce changement est seulement effectué en local sur leur ordinateur.
 
 ## Liens
