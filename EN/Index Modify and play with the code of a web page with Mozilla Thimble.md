@@ -27,19 +27,19 @@ __Note__: it's recommended to teach the “HTML Puzzle Game: introduction to HTM
 
 ### Part 2: play with Mozilla Timble
 
-#### Introduction__
+#### Introduction
 1. Go to [Mozilla Thimble](https://thimble.mozilla.org/fr/) Web page.
 2. Choose “Keep Calm and Carry On” project.
 3. Explain the two parts: code is on the left and display is on the right. Code modifications are displaying in real time.
 4. Explain the HTML tags and structure, and how to write comments.
     
-#### Modify the HTML code__
+#### Modify the HTML code
 1. Work with the Editor part on the left, on the `index.html` page.
 2. Modify the title `h1` (lines 18 to 22).
 3. Add a paragraph after the title: `<p>`Your text here.`</p>`
 4. Potentially modify the image: change `src="crown.svg"` by `src="another URL here”` (line 15).
     
-#### Modify the CSS code__
+#### Modify the CSS code
 1. In the Editor, select `style.ccs` page.
 2. Modify some properties of the elements `body`:
     * the background (line 2)
