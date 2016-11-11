@@ -21,6 +21,7 @@ Nos ateliers sont ouverts à tou-te-s et sont destinés aux débutant-e-s. Seul 
 
 ##Les lieux et événements qui ont accueilli des ateliers Webmaker
 * Bibliothèques municipales de la Ville de Paris (2016)
+* Lycée Flora Tristan, Noisy-Le-Grand (2016)
 * Second Square – Spécial Makers, du 24 au 28 février 2016, Carreau du Temple, Paris
 * Code Week 2015, 17 octobre 2015, Mozilla, Paris
 * Ubuntu Party, 30 et 31 mai 2015, Cité des Sciences et de l'Industrie, Paris
@@ -46,6 +47,7 @@ The Webmaker workshops are intended for giving you accessible and playful tips t
 
 ##Places and events where French Webmaker workshops were organized
 * Paris Public Librairies (2016)
+* Flora Tristan High School, Noisy-Le-Grand (2016)
 * Second Square – Special Makers Edition, 24th–28th February 2016, Carreau du Temple, Paris
 * Code Week 2015, 17th October 2015, Mozilla, Paris
 * Ubuntu Party, 30th and 31st May 2015, Cité des Sciences et de l'Industrie, Paris
