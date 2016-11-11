@@ -16,7 +16,7 @@
 * Coder sa première page web.
 * Initiation au langage CSS.
 
-## Déroulement de l'atelier ==
+## Déroulement de l'atelier
 
 ### Partie 1 : introduction
 * Se rendre sur un site internet que vous aurez choisi à l'avance selon votre public et montrer le code derrière l'affichage d'une page web.
