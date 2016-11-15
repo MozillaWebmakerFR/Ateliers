@@ -18,7 +18,7 @@ At the end of the workshop, participants will understand that:
 
 ###Equipment
 
-* [Printed cards](http://sionneau.net/webmaker/Cartes%20myst%c3%a8res%20du%20web%204.odg)
+* [Printed cards](../Ressource/Cartes%20myst%c3%a8res%20du%20web%204.odg)
 * A 6-faces dice (or an smartphone App.).
 * A timer (optional)
 
@@ -54,7 +54,7 @@ __The game:__
 
 ###The profiles
 
-(*) __Thunderbird__ : Investigation Reporter located in Brazil. She/he likes travel around, botany and electronic music. 
+(*) __Thunderbird__ : Investigation Reporter located in Brazil. She/he likes travel around, botany and electronic music.
 
 (+) __Firefox__ : Geek and a Pastry Chef. She/he is a Mozilla contributor: French to Spanish localization.
 

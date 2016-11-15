@@ -7,7 +7,9 @@
 * Jusqu'à 4 participants pour un·e organisateur·ice.
 * Durée : 1h à 1h30.
 * Matériel :
-    * Des cubes en papier imprimés: les patrons des cubes se trouvent [ici](Ressource/CubeHTML.pdf) et [la](Ressource/CubeHTML2.pdf).<br> Vous trouverez les instructions pour les construire sur cette page : [https://yopdesign.makes.org/thimble/LTQ5ODQ2NjU2MA==/html-puzzle-box HTML Puzzle Box].<br> Si vous voulez modifier ces patrons, les sources sont [http://ngaumont.fr/asset/webmaker/CubeHTML.svg ici] et [http://ngaumont.fr/asset/webmaker/CubeHTML2.svg là]
+    * Des cubes en papier imprimés: les patrons des cubes se trouvent [ici](../Ressource/CubeHTML.pdf) et [la](../Ressource/CubeHTML2.pdf).  
+    Vous trouverez les instructions pour les construire sur cette page : [HTML Puzzle Box](https://yopdesign.makes.org/thimble/LTQ5ODQ2NjU2MA==/html-puzzle-box).  
+    Si vous voulez modifier ces patrons, les sources sont [ici](../Ressource/CubeHTML.svg) et [la](../Ressource/CubeHTML2.svg)
     * Des ordinateurs (utilisation d'un navigateur web).
 
 ## Notions abordées
