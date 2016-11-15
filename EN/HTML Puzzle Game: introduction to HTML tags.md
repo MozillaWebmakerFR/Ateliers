@@ -7,7 +7,8 @@ Participants manipulate HTML cubes and code their very first HTML page on their 
 * Up to four participants per mentor.
 * Duration: 1 hour to 1 hour and 1/2.
 * Equipment:
-    * Printed cubes: you will find the templates [here](../Ressource/CubeHTML.pdf) and [here](../Ressource/CubeHTML2.pdf). Follow these instructions to build the cubes: [HTML Puzzle Box](https://yopdesign.makes.org/thimble/LTQ5ODQ2NjU2MA==/html-puzzle-box).
+    * Printed cubes: you will find the templates [here](../Ressource/CubeHTML.pdf) and [here](../Ressource/CubeHTML2.pdf).  
+    Follow these instructions to build the cubes: [HTML Puzzle Box](https://yopdesign.makes.org/thimble/LTQ5ODQ2NjU2MA==/html-puzzle-box).
     * If you wish to modify the cubes templates, you can download the SVG files [here](../Ressource/CubeHTML.svg) and [here](../Ressource/CubeHTML2.svg).
 
 ## Key notions
