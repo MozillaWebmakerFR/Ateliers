@@ -7,8 +7,9 @@ Participants manipulate HTML cubes and code their very first HTML page on their 
 * Up to four participants per mentor.
 * Duration: 1 hour to 1 hour and 1/2.
 * Equipment:
-    * Printed cubes: you will find the templates [here](http://ngaumont.fr/asset/webmaker/CubeHTML.png) and [here](http://ngaumont.fr/asset/webmaker/CubeHTML2.png). Follow these instructions to build the cubes: [HTML Puzzle Box](https://yopdesign.makes.org/thimble/LTQ5ODQ2NjU2MA==/html-puzzle-box).
-    * If you wish to modify the cubes templates, you can download the SVG files [here](http://ngaumont.fr/asset/webmaker/CubeHTML.svg) et [here](http://ngaumont.fr/asset/webmaker/CubeHTML2.svg).
+    * Printed cubes: you will find the templates [here](../Ressource/CubeHTML.pdf) and [here](../Ressource/CubeHTML2.pdf).  
+    Follow these instructions to build the cubes: [HTML Puzzle Box](https://yopdesign.makes.org/thimble/LTQ5ODQ2NjU2MA==/html-puzzle-box).
+    * If you wish to modify the cubes templates, you can download the SVG files [here](../Ressource/CubeHTML.svg) and [here](../Ressource/CubeHTML2.svg).
 
 ## Key notions
 * What is a HTML tag?
@@ -35,7 +36,7 @@ Participants manipulate HTML cubes and code their very first HTML page on their 
 #### Code and play with Mozilla Thimble
 1. Go to Mozilla Thimble web page (you will need internet connection).
 2. Select a project and modify the HTML code (and the CSS if you wish).
-    
+
 #### Code with a text editor
 1. Open a text editor (Notepad++, Text Edit).
 2. Start to code: write the basic HTML structure and add content between the HTML tags (take content from a WIkipedia page for example).

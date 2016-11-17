@@ -5,9 +5,11 @@
 ## Public, durée, matériel
 * Public débutant, alphabétisé, pas de prérequis technique.
 * Jusqu'à 4 participants pour un·e organisateur·ice.
-* Durée : 1h à 1h30. 
-* Matériel : 
-    * Des cubes en papier imprimés: les patrons des cubes se trouvent [http://ngaumont.fr/asset/webmaker/CubeHTML.png ici] et [http://ngaumont.fr/asset/webmaker/CubeHTML2.png là].<br> Vous trouverez les instructions pour les construire sur cette page : [https://yopdesign.makes.org/thimble/LTQ5ODQ2NjU2MA==/html-puzzle-box HTML Puzzle Box].<br> Si vous voulez modifier ces patrons, les sources sont [http://ngaumont.fr/asset/webmaker/CubeHTML.svg ici] et [http://ngaumont.fr/asset/webmaker/CubeHTML2.svg là]
+* Durée : 1h à 1h30.
+* Matériel :
+    * Des cubes en papier imprimés: les patrons des cubes se trouvent [ici](../Ressource/CubeHTML.pdf) et [la](../Ressource/CubeHTML2.pdf).  
+    Vous trouverez les instructions pour les construire sur cette page : [HTML Puzzle Box](https://yopdesign.makes.org/thimble/LTQ5ODQ2NjU2MA==/html-puzzle-box).  
+    Si vous voulez modifier ces patrons, les sources sont [ici](../Ressource/CubeHTML.svg) et [la](../Ressource/CubeHTML2.svg)
     * Des ordinateurs (utilisation d'un navigateur web).
 
 ## Notions abordées
@@ -38,7 +40,7 @@
     * Commencer à coder : écrire la structure HTML de base et ajouter du contenu entre les balises (à partir d'une page Wikipédia par exemple).
 
 _Note : en cas d'impossibilité de connexion à internet, vous pouvez préparer un dossier contenant du texte et des images._
- 
+
 ### Partie 2 : CSS (partie optionnelle, selon la durée de l'atelier)
 * Expliquer ce qu'est le CSS.
 * Vous pouvez choisir une page web et désactiver le CSS.

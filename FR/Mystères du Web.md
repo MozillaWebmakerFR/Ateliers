@@ -18,7 +18,7 @@
 
 ### Matériel
 
-* [Les cartes du jeu](http://sionneau.net/webmaker/Cartes%20myst%c3%a8res%20du%20web%204.odg)
+* [Les cartes du jeu](../Ressource/Cartes%20myst%c3%a8res%20du%20web%204.odg)
 * 1 dé à 6 faces (à défaut, une application smartphone peut faire l'affaire)
 * Chronomètre (optionnel)
 
@@ -52,11 +52,11 @@ __Un tour de jeu se déroule de la manière suivante :__
 
 ## La liste des profils
 
-* (*) __L'oiseau-tonnerre (ou thunderbird)__ : Journaliste d'investigation basé-e au Brésil, aime les voyages, la botanique et la musique électronique. 
+* (*) __L'oiseau-tonnerre (ou thunderbird)__ : Journaliste d'investigation basé-e au Brésil, aime les voyages, la botanique et la musique électronique.
 * (+) __Le panda roux (ou firefox)__ : Pâtissier·e geek, contribue à Mozilla en traduisant du français vers l'espagnol.
 * (°) __Le dinosaure rouge__ : Étudiant·e en informatique, sensible aux problématiques de vie privée et de surveillance.
 * (§) __Le phœnix__ : Traducteur·ice spécialisé-e dans le domaine des systèmes embarqués, voyage souvent et apprécie la gastronomie locale.
-* (@) __La licorne de brume__ : Militant·e de gauche radicale pour la défense des libertés, habitant en banlieue parisienne, amateur·ice de bière artisanale. 
+* (@) __La licorne de brume__ : Militant·e de gauche radicale pour la défense des libertés, habitant en banlieue parisienne, amateur·ice de bière artisanale.
 * (#) __La pie verte__ : Militant·e écolo de 27 ans salarié•e chez Green Peace, geek, habitant à Sevran (93).
 * ( [] ) __La fourmi violette__ : Secrétaire médicale, 55 ans, utilise l'informatique dans le cadre professionnel ainsi que dans sa vie personnelle pour communiquer avec ses enfants qui habitent à l'étranger. Ille est fan de musique.
 * (__\/\/\/\/__) __Le papillon doré__ : Conducteur·ice de rame de métro salarié.e à la RATP, collectionne des timbres et fait la plupart de ses achats en ligne. A deux enfants de 8 et 10 ans. Habite à Bagnolet.
@@ -69,4 +69,3 @@ __Un tour de jeu se déroule de la manière suivante :__
 | 10 min| Présentation et mise en place || Vérifier que tout le monde a bien compris, expliciter les termes des cartes « Action » si besoin. |
 | 30 min| Tours de jeu | Lors de chaque phase d'attaque, expliquer quelles traces nous laissons sur Internet, et comment elles peuvent être récupérées. Si possible, faire deviner les réponses aux joueurs/euses, et engager la discussion.|
 | 5 min | Mise en perspective | Remercier les participant·e·s, leur demander s'ils ont appris des choses et ce qui les a surpris. Élargir la discussion sur les enjeux de protection de la vie privée. |
-
