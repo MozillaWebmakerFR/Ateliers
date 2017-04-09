@@ -20,8 +20,8 @@ Nos ateliers sont ouverts à tou-te-s et sont destinés aux débutant-e-s. Seul 
 * [Structure d'une page HTML : comparer la structure d'une page de journal papier et celle d'une page web](./FR/Structure%20d'une%20page%20HTML%20:%20comparer%20la%20structure%20d'une%20page%20de%20journal%20papier%20et%20celle%20d'une%20page%20web.md)
 
 ## Les lieux et événements qui ont accueilli des ateliers Webmaker
-* Bibliothèques municipales de la Ville de Paris (2016)
-* Lycée Flora Tristan, Noisy-Le-Grand (2016)
+* Bibliothèques municipales de la Ville de Paris (2017)
+* Lycée Flora Tristan, Noisy-Le-Grand (2016-2017)
 * Second Square – Spécial Makers, du 24 au 28 février 2016, Carreau du Temple, Paris
 * Code Week 2015, 17 octobre 2015, Mozilla, Paris
 * Ubuntu Party, 30 et 31 mai 2015, Cité des Sciences et de l'Industrie, Paris
